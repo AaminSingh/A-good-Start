@@ -42,7 +42,7 @@ for (let index = 0; index < myArray.length; index++) {
 for (let index = 1; index <= 20; index++) {
     if (index == 5) {
         console.log(`Detected 5`);
-        continue
+        continue          // here the execution won't stop 
     }
    console.log(`Value of i is ${index}`);
     
