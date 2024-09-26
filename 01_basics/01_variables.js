@@ -1,5 +1,5 @@
 const accountId = 144553 // this is constant and can't be changed
-let accountEmail = "officialvanshdixit@gmail.com"
+let accountEmail = "aaminsimmisingh@gmail.com"
 var accountPass = "12345"
 accountCity = "Lucknow"
 let accountState;
