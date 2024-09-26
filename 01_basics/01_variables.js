@@ -8,7 +8,7 @@ accountId = 2 // trying to change but it can't be changed
 console.log(accountId);
 */
 
-accountEmail = "vanshdixit2005@gmail.com"
+accountEmail = "aaminsimmisingh@gmail.com"
 accountPass = "2355ak"
 accountCity = "Tokyo"
 
