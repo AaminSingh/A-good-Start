@@ -1,17 +1,28 @@
-//******************COMPARISON************
+//BASIC COMPARISONS
 
-/*console.log(2>1);
-console.log(2<1);
-console.log(2==1);
-console.log(2!=1);*/
-
-/*console.log("2">1); //while comparing 2 values make sure that their data types are same
-console.log("02">1);*/
+// console.log(2 > 1);
+// console.log(2 >= 1);
+// console.log(2 < 1);
+// console.log(2 == 1);
+// console.log(2 != 1);
 
 
-/*console.log(null>0);
-console.log(null==0);
-console.log(null<=0);
+// console.log("2" > 1); ---> true (CONVERTS IT TO NUMBER AND THEN RETURNS TRUE)
+// console.log("02" > 1);
+
+console.log(null > 0); //false (not converted)
+console.log(null == 0); // false (not converted......... == is equality operator) 
+console.log(null >= 0); // true (here the null is converted to zero first and then it is compared)
+// equality and comparison operators work differently 
+
+console.log(undefined == 0); // false
+console.log(undefined > 0); // false
+console.log(undefined < 0); // false
+
+// === 
+ 
+console.log("2" === 2); // strict check (it also checks the datatype)
+ 
 /*The reason is that an equality check == and comparisons >< >= <= woek diferently.
 Comparisons convert null to a number treating it as 0.*/
 
