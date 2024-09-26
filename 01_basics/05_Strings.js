@@ -1,4 +1,4 @@
-const name = "Vansh"
+const name = "Aamin"
 const repoCount = 10
 
 // console.log(name + repoCount + " Value");     NOT AT ALL RECOMMENDED
