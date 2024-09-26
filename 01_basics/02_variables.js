@@ -1,11 +1,30 @@
- "user strict";// treat all js code as newer version
- //alert ("hello") //we are using node js not browser
- console.log("aamin");
- console.log(9+8);//code readibilty should be high
+ "use strict" // treat all JS code as newer version 
 
- let name ="aamin";
- let age = 19;
- let isLoggedIn = true
+// alert("hello there.. ") .......... we are using node js and not browser. 
+// it works inside console on a browser or when integrated with the html
+
+
+let name = "vansh is the first sextillionaire" // string
+let age = 160 // integer
+let isSexy = true // boolean
+
+/*
+number --> range is 2^53
+bigint
+boolean
+string
+null --> standalone value and kind of a datatype
+undefined --> value is not assigned
+symbol --> for uniqueness 
+
+object 
+
+*/
+
+console.log(typeof  "spexy vansh")
+console.log(typeof null) // the output says that null is an object`
+console.log (typeof undefined ) // undefined 
+
 
 
  //number =2 to the power 53
@@ -17,8 +36,6 @@
  //symbol =>to find uniqueness
  //object 
  
- console.log(typeof null);//object
- console.log(typeof undefined);
-
+ 
 
  
