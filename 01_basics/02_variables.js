@@ -4,9 +4,9 @@
 // it works inside console on a browser or when integrated with the html
 
 
-let name = "vansh is the first sextillionaire" // string
-let age = 160 // integer
-let isSexy = true // boolean
+let name = "aamin " // string
+let age = 18// integer
+let isInnocent = true // boolean
 
 /*
 number --> range is 2^53
@@ -21,7 +21,7 @@ object
 
 */
 
-console.log(typeof  "spexy vansh")
+console.log(typeof  "smart aamin")
 console.log(typeof null) // the output says that null is an object`
 console.log (typeof undefined ) // undefined 
 
