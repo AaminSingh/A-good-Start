@@ -9,7 +9,7 @@ console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 // we can use functions in this as well to format the text in the variables..
 console.log(`Hi there, I'm ${name.toUpperCase()}`)
 
-const gameName = new String('Vansh-Dixit-05')  // this creates a string object using string constructor..... It's not a primitive string
+const gameName = new String('arya7845')  // this creates a string object using string constructor..... It's not a primitive string
 //You rarely need to create a string object using new String(), because JavaScript automatically provides string methods to primitive strings.
 
 console.log(gameName[0]);       
