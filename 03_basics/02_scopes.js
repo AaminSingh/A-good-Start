@@ -19,11 +19,10 @@ function one(){
 
     function two(){
         const website = "youtube"
-        console.log(username);     //the inner fxnn can call the outer fxn but the outer fxn cannot xall th inner fxn 
+        console.log(username);     //the inner fxn can call the outer fxn but the outer fxn cannot call th inner fxn 
     }
     // console.log(website);
 
-     two()
 
 }
 
