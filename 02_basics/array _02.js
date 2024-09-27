@@ -22,9 +22,9 @@ console.log(real_another_array);
 
 
 
-console.log(Array.isArray("Vansh")) // checks if it is array or not
-console.log(Array.from("Vansh")) // converts the string in array 
-console.log(Array.from({name: "vansh"})) // interesting (hard to create array from objects unless key or val pair is defined)
+console.log(Array.isArray("Aamin")) // checks if it is array or not
+console.log(Array.from("Aamin")) // converts the string in array 
+console.log(Array.from({name: "Aamin"})) // interesting (hard to create array from objects unless key or val pair is defined)
 // the Array prefix in Array.isArray() and Array.from() is array constructor which is built-in object in JS
 
 let score1 = 100
