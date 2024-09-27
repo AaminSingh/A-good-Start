@@ -40,7 +40,7 @@ function loginUserMessage(username = "sam"){
 
 
 function calculateCartPrice(val1, val2, ...num1){
-    return num1
+    return num1        // here the first teon values belong to val1 and val2 and the rest input comes in num1
 }
 
 // console.log(calculateCartPrice(200, 400, 500, 2000))
